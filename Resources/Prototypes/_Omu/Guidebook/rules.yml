@@ -1,0 +1,16 @@
+- type: guideEntry
+  id: OmuRuleset
+  name: guide-entry-rules
+  priority: 1
+  text: "/ServerInfo/Guidebook/ServerRules/OmuRules.xml"
+  children:
+  - RulesAdmins
+
+- type: guideEntry
+  id: RulesAdmins
+  name: guide-entry-rules-admins
+  ruleEntry: true
+  priority: 1
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleAdmins.xml"
+
+
