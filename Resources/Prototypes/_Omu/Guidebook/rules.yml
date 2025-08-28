@@ -2,15 +2,26 @@
   id: OmuRuleset
   name: guide-entry-rules
   priority: 1
-  text: "/ServerInfo/Guidebook/ServerRules/OmuRules.xml"
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/OmuRules.xml"
   children:
-  - RulesAdmins
+  - RuleAdmins
+  - RuleDontBeADick
+  - RuleICKOCK
 
 - type: guideEntry
-  id: RulesAdmins
+  id: RuleAdmins
   name: guide-entry-rules-admins
   ruleEntry: true
   priority: 1
   text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleAdmins.xml"
 
+- type: guideEntry
+  id: RuleDontBeADick
+  ruleEntry: true
+  priority: 2
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/RuleDick.xml"
 
+- type: guideEntry
+  id: RuleICKOCK
+  ruleEntry: true
+  text: "/ServerInfo/_Omu/Guidebook/ServerRUles/RuleICKOCK.xml"
