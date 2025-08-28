@@ -12,16 +12,40 @@
   id: RuleAdmins
   name: guide-entry-rules-admins
   ruleEntry: true
-  priority: 1
+  priority: 2
   text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleAdmins.xml"
 
 - type: guideEntry
   id: RuleDontBeADick
+  name: guide-entry-rules-dick
   ruleEntry: true
-  priority: 2
-  text: "/ServerInfo/_Omu/Guidebook/ServerRules/RuleDick.xml"
+  priority: 3
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleDick.xml"
+
+- type: guideEntry
+  id: RuleMetagame
+  name: guide-entry-rules-metagame
+  ruleEntry: true
+  priority: 4
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleMetagame.xml"
 
 - type: guideEntry
   id: RuleICKOCK
+  name: guide-entry-rules-ickock
   ruleEntry: true
-  text: "/ServerInfo/_Omu/Guidebook/ServerRUles/RuleICKOCK.xml"
+  priority: 5
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleICKOCK.xml"
+
+- type: guideEntry
+  id: RuleRP
+  name: guide-entry-rules-roleplay
+  ruleEntry: true
+  priority: 6
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleRP.xml"
+
+- type: guideEntry
+  id: RuleSelfantag
+  name: guide-entry-rules-selfantag
+  ruleEntry: true
+  priority: 7
+  text: "/ServerInfo/_Omu/Guidebook/ServerRules/CoreRules/RuleSelfantag.xml"
