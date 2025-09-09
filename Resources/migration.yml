@@ -1053,7 +1053,7 @@ BarSignWhiskeyEchoesAlignTile: BarSignWhiskeyEchoes
 
 ## Omustation Changes
 # 2025-09-07
-AirlockJusticeGlass: AirlockLawyerGlass
+AirlockJusticeGlass: AirlockLawyerGlassLocked
 AirlockJusticeGlassLocked: AirlockLawyerGlassLocked
 AsteroidAltRockMining: AsteroidRockMining
 AsteroidRockOreCrab: AsteroidRockMining
@@ -1094,7 +1094,7 @@ PlushieShadowkin: null
 PoweredLightColoredFrostyBlue: null
 Rails: N14Rails
 RailsJunctionRightBottom: N14RailsJunctionRightBottom
-RandomRockSpawner: Rock01
+RandomRockSpawner: null
 ReverseEngineeringMachineCircuitboard: null
 SalvageSeedSpawnerLow: null
 Shower: null
