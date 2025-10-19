@@ -1112,63 +1112,6 @@ WarpPointBotany: null
 WarpPointBridge: null
 WarpPointChapel: null
 WarpPointCourt: null
-<<<<<<< Updated upstream
-=======
-WeaponTurretAI: ChristmasTinselBlue1
-WindoorSecureClerkLocked: WindoorSecure
-WarpPointEngineering: null
-SpawnMobCMOPetSilvia: null
-SpawnPointCargoAssistant: SpawnPointCargoTechnician
-SignLastIdiot: null
-EpistemicsTechFab: ScienceTechFab
-LockableButtonRobotics: null
-LockerAdministrativeAssistantFilled: UniqueLockerNanorepFilled
-AirlockJustice: AirlockLawyerLocked
-AirlockJusticeGlass: AirlockLawyerGlassLocked
-AirlockJusticeLocked: AirlockLawyerLocked
-AirlockJusticeGlassLocked: AirlockLawyerGlassLocked
-AugustineCircuitBoard: null
-BedsheetInvisibilityCloak: null
-ClothingUniformSwimsuitBlue: null
-CrateCapGunSet: null
-CrateFoodDonkpocketSavory: null
-CrateFunBBGun: null
-CrateServiceReplacementMaintenanceLights: CrateServiceReplacementLights
-CrewsimovCircuitBoard: AsimovCircuitBoard
-FoodHarpyWings: RightArmHarpy
-FurnitureWashingmachineIndustrial: null
-GeigerCounterWallMount: null
-GunSafeEnergyGun: GunSafeLaserCarbine
-LockerSyndicateAgentLocker: LockerSyndicatePersonal
-MagazineBoxSpecial: null
-OilJarOlive: null
-OracleSpawner: null
-PaperSlip: Paper
-PillMindbreakerToxin: FoodSnackLollypopWrappedMindbreakerToxin
-PlushieCatBlack: null
-PlushieCoffeeFox: null
-PlushieCrimsonFox: null
-PlushieGnome: null
-PlushieHarpy: null
-PlushieOrangeFox: null
-PlushiePurpleFox: null
-PlushieRedFox: null
-PlushieShadowkin: null
-PoweredLightColoredFrostyBlue: ColoredLightTubeFrostyBlue
-Rails: null
-RailsJunctionRightBottom: null
-ReverseEngineeringMachineCircuitboard: null
-SnakeMobMundane25: MobSnake
-SophicScribeSpawner: null
-SpawnVehicleWheelchairFolded: VehicleWheelchairFolded # Goob commented out spawnvehiclewheelchairfolded but didn't add the prototype
-SpeedLoaderSpecial: null
-SyndicateMonitoringServer: null
-WallDrywall: WallWood
-WallRockChromiteNormality: WallRockChromiteBSCrystal
-WarpPointBotany: null
-WarpPointBridge: null
-WarpPointChapel: null
->>>>>>> Stashed changes
 WarpPointDorms: null
 WarpPointLogistics: null
 WarpPointMedical: null
@@ -1178,9 +1121,4 @@ WarpPointVault: null
 WeaponCaptainRevolverShotgun: null
 WeaponRevolverK38MasterSecurity: null
 WeaponRevolverLucky: null
-<<<<<<< Updated upstream
 ## End of Omustation Changes
-=======
-Shower: null # Yall stink
-DrinkHolyWaterFull: JugHolyWater
->>>>>>> Stashed changes
